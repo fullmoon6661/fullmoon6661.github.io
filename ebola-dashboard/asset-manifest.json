@@ -1,11 +1,11 @@
 {
-  "main.js": "/ebola-dashboard/static/js/main.8777920d.chunk.js",
-  "main.js.map": "/ebola-dashboard/static/js/main.8777920d.chunk.js.map",
+  "main.js": "/ebola-dashboard/static/js/main.ac6a1935.chunk.js",
+  "main.js.map": "/ebola-dashboard/static/js/main.ac6a1935.chunk.js.map",
   "runtime~main.js": "/ebola-dashboard/static/js/runtime~main.4d04764a.js",
   "runtime~main.js.map": "/ebola-dashboard/static/js/runtime~main.4d04764a.js.map",
-  "static/js/2.9566ec38.chunk.js": "/ebola-dashboard/static/js/2.9566ec38.chunk.js",
-  "static/js/2.9566ec38.chunk.js.map": "/ebola-dashboard/static/js/2.9566ec38.chunk.js.map",
+  "static/js/2.0d5ba661.chunk.js": "/ebola-dashboard/static/js/2.0d5ba661.chunk.js",
+  "static/js/2.0d5ba661.chunk.js.map": "/ebola-dashboard/static/js/2.0d5ba661.chunk.js.map",
   "index.html": "/ebola-dashboard/index.html",
-  "precache-manifest.f254afb134c354aea8155dd9f7b35794.js": "/ebola-dashboard/precache-manifest.f254afb134c354aea8155dd9f7b35794.js",
+  "precache-manifest.3bc68221e286208e1e7cb1851d05c177.js": "/ebola-dashboard/precache-manifest.3bc68221e286208e1e7cb1851d05c177.js",
   "service-worker.js": "/ebola-dashboard/service-worker.js"
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ebola-dashboard/precache-manifest.f254afb134c354aea8155dd9f7b35794.js"
+  "/ebola-dashboard/precache-manifest.3bc68221e286208e1e7cb1851d05c177.js"
 );
 
 workbox.clientsClaim();
